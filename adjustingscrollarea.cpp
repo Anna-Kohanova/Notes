@@ -1,0 +1,4 @@
+#include "adjustingscrollarea.h"
+
+
+
